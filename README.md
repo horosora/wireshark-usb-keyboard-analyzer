@@ -1,9 +1,11 @@
-# USB-HID_input_key_analyzer
-USBキーボードで入力されたキーを解析するWiresharkのプラグインです。
+# USB Keyboard Analyzer
 
-## インストール
-* Windows  
-`C:\Program Files\Wireshark\plugins`に`USB-HID_input_key_analyzer.lua`を置いてください。
+Wireshark plugin for analyzing characters typed on a USB keyboard.
 
-## 使用方法
-`ツール`->`Analysis of typed key`で入力されたキーを表示します。
+## Install
+
+Download the repository and put it in the plugins folder.
+
+## Usage
+
+`Tools` > `Analysis of typed key`
