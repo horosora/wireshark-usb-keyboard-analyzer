@@ -1,6 +1,6 @@
 # Wireshark USB Keyboard Analyzer
 
-Analyze the pressed USB keyboard keys.
+Wireshark plugin for analyzing characters typed on a USB keyboard.
 
 ![](./screenshot.png)
 
